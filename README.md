@@ -30,4 +30,9 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
    ```bash
    git clone https://github.com/username/headers-convert.git
    cd headers-convert
-   
+   ```
+
+2. **Instal dependensi yang diperlukan: Jika Anda belum menginstal Flask, lakukan instalasi dengan:**
+   ```bash
+   pip install flask
+   ```

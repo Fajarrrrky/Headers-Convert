@@ -40,3 +40,4 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
    ```bash
    python app.py
    ```
+   Aplikasi akan berjalan di server lokal dan dapat diakses di http://127.0.0.1:5000/.

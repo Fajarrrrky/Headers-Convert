@@ -29,7 +29,7 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
 1. **Clone repositori ini:**
    ```bash
    git clone https://github.com/Fajarxyta/Headers-Convert.git
-   cd headers-convert
+   cd Headers-Convert
    ```
 
 2. **Instal dependensi yang diperlukan: Jika Anda belum menginstal Flask, lakukan instalasi dengan:**

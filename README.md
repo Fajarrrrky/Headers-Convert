@@ -36,3 +36,7 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
    ```bash
    pip install flask
    ```
+3. **Jalankan aplikasi Flask: Untuk menjalankan aplikasi, gunakan perintah berikut:**
+   ```bash
+   python app.py
+   ```

@@ -32,11 +32,11 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
    cd Headers-Convert
    ```
 
-2. **Instal dependensi yang diperlukan: Jika Anda belum menginstal Flask, lakukan instalasi dengan:**
+2. **Jika Anda belum menginstal Flask, lakukan instalasi dengan:**
    ```bash
    pip install flask
    ```
-3. **Jalankan aplikasi Flask: Untuk menjalankan aplikasi, gunakan perintah berikut:**
+3. **Untuk menjalankan aplikasi, gunakan perintah berikut:**
    ```bash
    python app.py
    ```

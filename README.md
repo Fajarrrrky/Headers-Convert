@@ -28,7 +28,7 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
 ### Instalasi dan Persiapan
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/Fajarxyta/Headers-Convert.git
+   git clone https://github.com/Fajarrrrky/Headers-Convert.git
    cd Headers-Convert
    ```
 

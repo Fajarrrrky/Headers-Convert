@@ -14,11 +14,6 @@ Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang
 - **Backend**: Flask (Python)
 - **Pustaka CSS**: Google Fonts (Montserrat)
 
-## Cara Kerja
-1. Pengguna memasukkan header HTTP dalam format baris per baris pada area input.
-2. Ketika tombol "Convert Headers" ditekan, skrip JavaScript akan mengonversi input tersebut menjadi format objek header Python yang siap digunakan dalam kode.
-3. Hasil konversi ditampilkan di dua kolom terpisah: satu untuk objek header Python dan satu lagi untuk hasil yang diformat.
-
 ## Cara Menjalankan
 
 ### Persyaratan

@@ -1,9 +1,5 @@
 # Headers-Convert
 
-**Headers-Convert** adalah aplikasi berbasis web yang memungkinkan pengguna untuk mengonversi header HTTP yang biasa digunakan dalam permintaan API atau konfigurasi server ke dalam format objek header yang lebih mudah dibaca dan digunakan dalam kode. Aplikasi ini dibangun menggunakan HTML, CSS, JavaScript untuk antarmuka pengguna, dan Flask untuk backend Python.
-
-Proyek ini dirancang untuk membantu pengembang yang bekerja dengan API atau yang perlu menangani header HTTP dalam pengkodean mereka. Dengan menggunakan aplikasi ini, Anda bisa mengonversi header HTTP mentah ke dalam objek header yang terstruktur untuk penggunaan lebih lanjut.
-
 ## Fitur
 - Mengonversi header HTTP ke format objek header Python.
 - Antarmuka pengguna yang responsif dan mudah digunakan.
